@@ -15,6 +15,7 @@
         "yiisoft/yii2": "^2.0.6",
         "dmstr/yii2-adminlte-asset": "3.0.0-beta1"
     },
+    "minimum-stability":"dev",
     "autoload": {
         "psr-4": {
             "kriss\\iframeLayout\\": "src"
